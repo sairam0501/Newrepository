@@ -9,7 +9,7 @@ int main()
 {
    int a,b;cin>>a>>b;
 
-    cout<<a-b;
+    cout<<"The difference is : "<<a-b;
 
     return 0;
 }
